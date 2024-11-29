@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IVA Calculator</string>
+    <string name="tax_type">Select IVA type</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_IVA">result IVA</string>
+
+    <string-array name="tipos">
+        <item>Fronterizo</item>
+        <item>Normal</item>
+    </string-array>
+
+</resources>
